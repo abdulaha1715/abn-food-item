@@ -1,0 +1,2 @@
+# Copyright (C) 2023 abn-food-item
+# This file is distributed under the same license as the tlp-food-menu package.
